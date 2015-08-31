@@ -1,0 +1,1230 @@
+[
+	{
+		"position": 0,
+		"name": "Hunting Rifle"
+	},
+	{
+		"position": 1,
+		"name": "CAPS",
+		"qty": 100
+	},
+	{
+		"position": 2,
+		"name": "FOOD",
+		"qty": 50
+	},
+	{
+		"position": 3,
+		"name": "Sturdy Combat Armor",
+	},
+	{
+		"position": 0,
+		"name": "WATER",
+		"qty": 50
+	},
+	{
+		"position": 1,
+		"name": "CAPS",
+		"qty": 100
+	},
+	{
+		"position": 2,
+		"name": "Enhanced .32 Pistol",
+	},
+	{
+		"position": 3,
+		"name": "CAPS",
+		"qty": 500
+	},
+	{
+		"position": 0,
+		"name": "Formal Wear",
+	},
+	{
+		"position": 1,
+		"name": "POWER",
+		"qty": 50
+	},
+	{
+		"position": 2,
+		"name": "CAPS",
+		"qty": 100
+	},
+	{
+		"position": 3,
+		"name": "Fancy Formal Wear",
+	},
+	{
+		"position": 0,
+		"name": "Rusty Laser Pistol",
+	},
+	{
+		"position": 1,
+		"name": "RADAWAY",
+		"qty": 1
+	},
+	{
+		"position": 2,
+		"name": "CAPS",
+		"qty": 100
+	},
+	{
+		"position": 3,
+		"name": "CAPS",
+		"qty": 500
+	},
+	{
+		"position": 0,
+		"name": "STIMPAK",
+		"qty": 1
+	},
+	{
+		"position": 1,
+		"name": "CAPS",
+		"qty": 100
+	},
+	{
+		"position": 2,
+		"name": "Junior Officer Uniform",
+	},
+	{
+		"position": 3,
+		"color": "blue",
+		"name": "Adam Wilson",
+		"attributes": {
+			"level": 10,
+			"sex":   "m",
+			"s":     7,
+			"p":     5,
+			"e":     6,
+			"c":     3,
+			"i":     3,
+			"a":     2,
+			"l":     2
+		},
+		"items": [
+			"Comedian Outfit",
+			"Fist"
+		]
+	},
+	{
+		"position": 0,
+		"name": "FOOD",
+		"qty": 50
+	},
+	{
+		"position": 1,
+		"name": "Lab Coat",
+	},
+	{
+		"position": 2,
+		"name": "CAPS",
+		"qty": 100
+	},
+	{
+		"position": 3,
+		"name": "Horror Fan Outfit",
+	},
+	{
+		"position": 0,
+		"name": "Enhanced Lever-Action Rifle",
+	},
+	{
+		"position": 1,
+		"name": "STIMPAK",
+		"qty": 1
+	},
+	{
+		"position": 2,
+		"name": "CAPS",
+		"qty": 100
+	},
+	{
+		"position": 3,
+		"name": "CAPS",
+		"qty": 500
+	},
+	{
+		"position": 0,
+		"name": "CAPS",
+		"qty": 100
+	},
+	{
+		"position": 1,
+		"name": "POWER",
+		"qty": 50
+	},
+	{
+		"position": 2,
+		"name": "10mm Pistol"
+	},
+	{
+		"position": 3,
+		"name": "CAPS",
+		"qty": 500
+	},
+	{
+		"position": 0,
+		"name": "FOOD",
+		"qty": 50
+	},
+	{
+		"position": 1,
+		"name": "CAPS",
+		"qty": 100
+	},
+	{
+		"position": 2,
+		"name": "Combat Armor",
+	},
+	{
+		"position": 3,
+		"color": "blue",
+		"name": "Jesse Ward",
+		"attributes": {
+			"level": 10,
+			"sex":   "m",
+			"s":     6,
+			"p":     4,
+			"e":     1,
+			"c":     2,
+			"i":     7,
+			"a":     4,
+			"l":     4
+		},
+		"items": [
+			"Professor Outfit",
+			"Fist"
+		]
+	},
+	{
+		"position": 0,
+		"name": "CAPS",
+		"qty": 500
+	},
+	{
+		"position": 1,
+		"name": "Combat Armor",
+	},
+	{
+		"position": 2,
+		"name": "WATER",
+		"qty": 50
+	},
+	{
+		"position": 3,
+		"name": "Sturdy Vault Suit",
+	},
+	{
+		"position": 0,
+		"name": "CAPS",
+		"qty": 100
+	},
+	{
+		"position": 1,
+		"name": "Enhanced Lever-Action Rifle",
+	},
+	{
+		"position": 2,
+		"name": "WATER",
+		"qty": 50
+	},
+	{
+		"position": 3,
+		"name": "CAPS",
+		"qty": 500
+	},
+	{
+		"position": 0,
+		"name": "CAPS",
+		"qty": 500
+	},
+	{
+		"position": 1,
+		"name": "Merc Gear",
+	},
+	{
+		"position": 2,
+		"name": "STIMPAK",
+		"qty": 1
+	},
+	{
+		"position": 3,
+		"name": "CAPS",
+		"qty": 500
+	},
+	{
+		"position": 0,
+		"name": "CAPS",
+		"qty": 100
+	},
+	{
+		"position": 1,
+		"name": "T-51d Power Armor",
+	},
+	{
+		"position": 2,
+		"name": "RADAWAY",
+		"qty": 1
+	},
+	{
+		"position": 3,
+		"name": "Comedian Outfit",
+	},
+	{
+		"position": 0,
+		"name": "CAPS",
+		"qty": 100
+	},
+	{
+		"position": 1,
+		"name": "Junior Officer Uniform",
+	},
+	{
+		"position": 2,
+		"name": "STIMPAK",
+		"qty": 1
+	},
+	{
+		"position": 3,
+		"name": "CAPS",
+		"qty": 500
+	},
+	{
+		"position": 0,
+		"name": "STIMPAK",
+		"qty": 1
+	},
+	{
+		"position": 1,
+		"name": "Three Dog's Outfit",
+	},
+	{
+		"position": 2,
+		"name": "CAPS",
+		"qty": 500
+	},
+	{
+		"position": 3,
+		"name": "Tuned Alien Blaster",
+	},
+	{
+		"position": 0,
+		"name": "WATER",
+		"qty": 50
+	},
+	{
+		"position": 1,
+		"name": "CAPS",
+		"qty": 100
+	},
+	{
+		"position": 2,
+		"name": "Battle Armor",
+	},
+	{
+		"position": 3,
+		"name": "CAPS",
+		"qty": 500
+	},
+	{
+		"position": 0,
+		"name": "Enhanced BB Gun",
+	},
+	{
+		"position": 1,
+		"name": "FOOD",
+		"qty": 50
+	},
+	{
+		"position": 2,
+		"name": "CAPS",
+		"qty": 100
+	},
+	{
+		"position": 3,
+		"color": "blue",
+		"name": "Mark Anderson",
+		"attributes": {
+			"level": 5,
+			"sex":   "m",
+			"s":     4,
+			"p":     3,
+			"e":     2,
+			"c":     2,
+			"i":     4,
+			"a":     6,
+			"l":     7
+		},
+		"items": [
+			"Survivor Armor",
+			"Fist"
+		]
+	},
+	{
+		"position": 0,
+		"name": "STIMPAK",
+		"qty": 1
+	},
+	{
+		"position": 1,
+		"name": "Battle Armor",
+	},
+	{
+		"position": 2,
+		"name": "CAPS",
+		"qty": 100
+	},
+	{
+		"position": 3,
+		"name": "Guided Fat Man",
+	},
+	{
+		"position": 0,
+		"name": "Battle Armor",
+	},
+	{
+		"position": 1,
+		"name": "CAPS",
+		"qty": 100
+	},
+	{
+		"position": 2,
+		"name": "RADAWAY",
+		"qty": 1
+	},
+	{
+		"position": 3,
+		"color": "blue",
+		"name": "Margaret Miller",
+		"attributes": {
+			"level": 5,
+			"sex":   "f",
+			"s":     3,
+			"p":     2,
+			"e":     7,
+			"c":     2,
+			"i":     4,
+			"a":     4,
+			"l":     6
+		},
+		"items": [
+			"Movie Fan Outfit",
+			"Fist"
+		]
+	},
+	{
+		"position": 0,
+		"name": "CAPS",
+		"qty": 100
+	},
+	{
+		"position": 1,
+		"name": "Battle Armor",
+	},
+	{
+		"position": 2,
+		"name": "STIMPAK",
+		"qty": 1
+	},
+	{
+		"position": 3,
+		"name": "Horror Fan Outfit",
+	},
+	{
+		"position": 0,
+		"name": "CAPS",
+		"qty": 100
+	},
+	{
+		"position": 1,
+		"name": "POWER",
+		"qty": 50
+	},
+	{
+		"position": 2,
+		"name": "Raider Armor",
+	},
+	{
+		"position": 3,
+		"color": "blue",
+		"name": "Howard Baker",
+		"attributes": {
+			"level": 6,
+			"sex":   "m",
+			"s":     7,
+			"p":     5,
+			"e":     4,
+			"c":     3,
+			"i":     4,
+			"a":     3,
+			"l":     2
+		},
+		"items": [
+			"Sports Fan Outfit",
+			"Fist"
+		]
+	},
+	{
+		"position": 0,
+		"name": "POWER",
+		"qty": 50
+	},
+	{
+		"position": 1,
+		"name": "BB Gun",
+	},
+	{
+		"position": 2,
+		"name": "CAPS",
+		"qty": 100
+	},
+	{
+		"position": 3,
+		"name": "Amplified Laser Pistol",
+	},
+	{
+		"position": 0,
+		"name": "STIMPAK",
+		"qty": 1
+	},
+	{
+		"position": 1,
+		"name": "CAPS",
+		"qty": 100
+	},
+	{
+		"position": 2,
+		"name": "Comedian Outfit",
+	},
+	{
+		"position": 3,
+		"name": "CAPS",
+		"qty": 500
+	},
+	{
+		"position": 0,
+		"name": "CAPS",
+		"qty": 100
+	},
+	{
+		"position": 1,
+		"name": "Rusty BB Gun",
+	},
+	{
+		"position": 2,
+		"name": "POWER",
+		"qty": 50
+	},
+	{
+		"position": 3,
+		"color": "blue",
+		"name": "Kyle Perry",
+		"attributes": {
+			"level": 7,
+			"sex":   "m",
+			"s":     3,
+			"p":     3,
+			"e":     7,
+			"c":     3,
+			"i":     6,
+			"a":     4,
+			"l":     2
+		},
+		"items": [
+			"Sports Fan Outfit",
+			"Fist"
+		]
+	},
+	{
+		"position": 0,
+		"name": "CAPS",
+		"qty": 100
+	},
+	{
+		"position": 1,
+		"name": "Wasteland Gear",
+	},
+	{
+		"position": 2,
+		"name": "POWER",
+		"qty": 50
+	},
+	{
+		"position": 3,
+		"name": "CAPS",
+		"qty": 500
+	},
+	{
+		"position": 0,
+		"name": "CAPS",
+		"qty": 100
+	},
+	{
+		"position": 1,
+		"name": "STIMPAK",
+		"qty": 1
+	},
+	{
+		"position": 2,
+		"name": "Enhanced 10mm Pistol"
+	},
+	{
+		"position": 3,
+		"name": "CAPS",
+		"qty": 500
+	},
+	{
+		"position": 0,
+		"name": "CAPS",
+		"qty": 100
+	},
+	{
+		"position": 1,
+		"name": "Expert Radiation Suit",
+	},
+	{
+		"position": 2,
+		"name": "STIMPAK",
+		"qty": 1
+	},
+	{
+		"position": 3,
+		"color": "blue",
+		"name": "Harold Clarke",
+		"attributes": {
+			"level": 10,
+			"sex":   "m",
+			"s":     4,
+			"p":     2,
+			"e":     2,
+			"c":     2,
+			"i":     6,
+			"a":     7,
+			"l":     5
+		},
+		"items": [
+			"Greaser Outfit",
+			"Fist"
+		]
+	},
+	{
+		"position": 0,
+		"name": "Enhanced Hunting Rifle",
+	},
+	{
+		"position": 1,
+		"name": "CAPS",
+		"qty": 100
+	},
+	{
+		"position": 2,
+		"name": "FOOD",
+		"qty": 50
+	},
+	{
+		"position": 3,
+		"name": "Scribe Robe",
+	},
+	{
+		"position": 0,
+		"name": "Rusty Sawed-Off Shotgun",
+	},
+	{
+		"position": 1,
+		"name": "WATER",
+		"qty": 50
+	},
+	{
+		"position": 2,
+		"name": "CAPS",
+		"qty": 500
+	},
+	{
+		"position": 3,
+		"name": "CAPS",
+		"qty": 500
+	},
+	{
+		"position": 0,
+		"name": "CAPS",
+		"qty": 100
+	},
+	{
+		"position": 1,
+		"name": "Wasteland Gear",
+	},
+	{
+		"position": 2,
+		"name": "FOOD",
+		"qty": 50
+	},
+	{
+		"position": 3,
+		"name": "CAPS",
+		"qty": 500
+	},
+	{
+		"position": 0,
+		"name": "Merc Gear",
+	},
+	{
+		"position": 1,
+		"name": "FOOD",
+		"qty": 50
+	},
+	{
+		"position": 2,
+		"name": "CAPS",
+		"qty": 100
+	},
+	{
+		"position": 3,
+		"name": "Enhanced Railway Rifle",
+	},
+	{
+		"position": 0,
+		"name": "Rusty Hunting Rifle",
+	},
+	{
+		"position": 1,
+		"name": "CAPS",
+		"qty": 100
+	},
+	{
+		"position": 2,
+		"name": "FOOD",
+		"qty": 50
+	},
+	{
+		"position": 3,
+		"name": "X-01 Mk VI Power Armor",
+	},
+	{
+		"position": 0,
+		"name": "Enhanced BB Gun",
+	},
+	{
+		"position": 1,
+		"name": "WATER",
+		"qty": 50
+	},
+	{
+		"position": 2,
+		"name": "CAPS",
+		"qty": 500
+	},
+	{
+		"position": 3,
+		"name": "Armor Piercing Sniper Rifle",
+	},
+	{
+		"position": 0,
+		"name": "RADAWAY",
+		"qty": 1
+	},
+	{
+		"position": 1,
+		"name": "Enhanced Sawed-Off Shotgun",
+	},
+	{
+		"position": 2,
+		"name": "CAPS",
+		"qty": 100
+	},
+	{
+		"position": 3,
+		"name": "Rusty Combat Shotgun",
+	},
+	{
+		"position": 0,
+		"name": "STIMPAK",
+		"qty": 1
+	},
+	{
+		"position": 1,
+		"name": "CAPS",
+		"qty": 500
+	},
+	{
+		"position": 2,
+		"name": "Plasma Pistol",
+	},
+	{
+		"position": 3,
+		"color": "blue",
+		"name": "Larry Mills",
+		"attributes": {
+			"level": 10,
+			"sex":   "m",
+			"s":     3,
+			"p":     7,
+			"e":     6,
+			"c":     4,
+			"i":     3,
+			"a":     2,
+			"l":     3
+		},
+		"items": [
+			"Knight Armor",
+			"Fist"
+		]
+	},
+	{
+		"position": 0,
+		"name": "WATER",
+		"qty": 50
+	},
+	{
+		"position": 1,
+		"name": "CAPS",
+		"qty": 100
+	},
+	{
+		"position": 2,
+		"name": "Focused Plasma Rifle",
+	},
+	{
+		"position": 3,
+		"color": "gold",
+		"name": "Eulogy Jones",
+		"attributes": {
+			"level": 32,
+			"sex":   "m",
+			"s":     5,
+			"p":     6,
+			"e":     5,
+			"c":     8,
+			"i":     5,
+			"a":     4,
+			"l":     7
+		},
+		"items": [
+			"Eulogy Jones' Suit",
+			"Blackhawk"
+		]
+	},
+	{
+		"position": 0,
+		"name": "STIMPAK",
+		"qty": 1
+	},
+	{
+		"position": 1,
+		"name": "Shotgun",
+	},
+	{
+		"position": 2,
+		"name": "CAPS",
+		"qty": 100
+	},
+	{
+		"position": 3,
+		"name": "X-01 Mk VI Power Armor",
+	},
+	{
+		"position": 0,
+		"name": "CAPS",
+		"qty": 100
+	},
+	{
+		"position": 1,
+		"name": "Sawed-Off Shotgun",
+	},
+	{
+		"position": 2,
+		"name": "RADAWAY",
+		"qty": 1
+	},
+	{
+		"position": 3,
+		"color": "blue",
+		"name": "Eric Payne",
+		"attributes": {
+			"level": 10,
+			"sex":   "m",
+			"s":     3,
+			"p":     3,
+			"e":     5,
+			"c":     1,
+			"i":     4,
+			"a":     7,
+			"l":     5
+		},
+		"items": [
+			"Horror Fan Outfit",
+			"Fist"
+		]
+	},
+	{
+		"position": 0,
+		"name": "CAPS",
+		"qty": 100
+	},
+	{
+		"position": 1,
+		"name": "FOOD",
+		"qty": 50
+	},
+	{
+		"position": 2,
+		"name": "Military Fatigues"
+	},
+	{
+		"position": 3,
+		"name": "CAPS",
+		"qty": 500
+	},
+	{
+		"position": 0,
+		"name": "STIMPAK",
+		"qty": 1
+	},
+	{
+		"position": 1,
+		"name": "CAPS",
+		"qty": 500
+	},
+	{
+		"position": 2,
+		"name": "Hardened BB Gun",
+	},
+	{
+		"position": 3,
+		"name": "Hardened Sawed-Off Shotgun",
+	},
+	{
+		"position": 0,
+		"name": "Enhanced Hunting Rifle",
+	},
+	{
+		"position": 1,
+		"name": "POWER",
+		"qty": 50
+	},
+	{
+		"position": 2,
+		"name": "CAPS",
+		"qty": 500
+	},
+	{
+		"position": 3,
+		"name": "CAPS",
+		"qty": 500
+	},
+	{
+		"position": 0,
+		"name": "CAPS",
+		"qty": 100
+	},
+	{
+		"position": 1,
+		"name": "FOOD",
+		"qty": 50
+	},
+	{
+		"position": 2,
+		"name": "Enhanced .32 Pistol",
+	},
+	{
+		"position": 3,
+		"name": "CAPS",
+		"qty": 500
+	},
+	{
+		"position": 0,
+		"name": "CAPS",
+		"qty": 100
+	},
+	{
+		"position": 1,
+		"name": "Sawed-Off Shotgun",
+	},
+	{
+		"position": 2,
+		"name": "WATER",
+		"qty": 50
+	},
+	{
+		"position": 3,
+		"name": "Rusty Plasma Pistol",
+	},
+	{
+		"position": 0,
+		"name": "CAPS",
+		"qty": 100
+	},
+	{
+		"position": 1,
+		"name": "FOOD",
+		"qty": 50
+	},
+	{
+		"position": 2,
+		"name": "Enhanced .32 Pistol",
+	},
+	{
+		"position": 3,
+		"color": "blue",
+		"name": "Willie Ford",
+		"attributes": {
+			"level": 8,
+			"sex":   "m",
+			"s":     2,
+			"p":     7,
+			"e":     4,
+			"c":     4,
+			"i":     4,
+			"a":     4,
+			"l":     3
+		},
+		"items": [
+			"Greaser Outfit",
+			"Fist"
+		]
+	},
+	{
+		"position": 0,
+		"name": "CAPS",
+		"qty": 100
+	},
+	{
+		"position": 1,
+		"name": "STIMPAK",
+		"qty": 1
+	},
+	{
+		"position": 2,
+		"name": "Armored Vault Suit",
+	},
+	{
+		"position": 3,
+		"name": "CAPS",
+		"qty": 500
+	},
+	{
+		"position": 0,
+		"name": "CAPS",
+		"qty": 100
+	},
+	{
+		"position": 1,
+		"name": "Enhanced 10mm Pistol"
+	},
+	{
+		"position": 2,
+		"name": "POWER",
+		"qty": 50
+	},
+	{
+		"position": 3,
+		"name": "CAPS",
+		"qty": 500
+	},
+	{
+		"position": 0,
+		"name": "CAPS",
+		"qty": 100
+	},
+	{
+		"position": 1,
+		"name": "Expert Radiation Suit",
+	},
+	{
+		"position": 2,
+		"name": "WATER",
+		"qty": 50
+	},
+	{
+		"position": 3,
+		"name": "CAPS",
+		"qty": 500
+	},
+	{
+		"position": 0,
+		"name": "FOOD",
+		"qty": 50
+	},
+	{
+		"position": 1,
+		"name": "CAPS",
+		"qty": 100
+	},
+	{
+		"position": 2,
+		"name": "Enhanced BB Gun",
+	},
+	{
+		"position": 3,
+		"name": "CAPS",
+		"qty": 500
+	},
+	{
+		"position": 0,
+		"name": "CAPS",
+		"qty": 100
+	},
+	{
+		"position": 1,
+		"name": "STIMPAK",
+		"qty": 1
+	},
+	{
+		"position": 2,
+		"name": "Wasteland Gear",
+	},
+	{
+		"position": 3,
+		"name": "CAPS",
+		"qty": 500
+	},
+	{
+		"position": 0,
+		"name": "CAPS",
+		"qty": 100
+	},
+	{
+		"position": 1,
+		"name": "POWER",
+		"qty": 50
+	},
+	{
+		"position": 2,
+		"name": "Rusty .32 Pistol",
+	},
+	{
+		"position": 3,
+		"name": "CAPS",
+		"qty": 500
+	},
+	{
+		"position": 0,
+		"name": "CAPS",
+		"qty": 100
+	},
+	{
+		"position": 1,
+		"name": "Combat Armor",
+	},
+	{
+		"position": 2,
+		"name": "STIMPAK",
+		"qty": 1
+	},
+	{
+		"position": 3,
+		"name": "CAPS",
+		"qty": 500
+	},
+	{
+		"position": 0,
+		"name": "CAPS",
+		"qty": 500
+	},
+	{
+		"position": 1,
+		"name": "RADAWAY",
+		"qty": 1
+	},
+	{
+		"position": 2,
+		"name": "T-60d Power Armor",
+	},
+	{
+		"position": 3,
+		"name": "Sturdy Vault Suit",
+	},
+	{
+		"position": 0,
+		"name": "CAPS",
+		"qty": 100
+	},
+	{
+		"position": 1,
+		"name": "RADAWAY",
+		"qty": 1
+	},
+	{
+		"position": 2,
+		"name": "Rusty .32 Pistol",
+	},
+	{
+		"position": 3,
+		"name": "CAPS",
+		"qty": 500
+	},
+	{
+		"position": 0,
+		"name": "CAPS",
+		"qty": 100
+	},
+	{
+		"position": 1,
+		"name": "FOOD",
+		"qty": 50
+	},
+	{
+		"position": 2,
+		"name": "Rusty .32 Pistol",
+	},
+	{
+		"position": 3,
+		"name": "Greaser Outfit",
+	},
+	{
+		"position": 0,
+		"name": "Armor Piercing Lever-Action Rifle",
+	},
+	{
+		"position": 1,
+		"name": "CAPS",
+		"qty": 100
+	},
+	{
+		"position": 2,
+		"name": "FOOD",
+		"qty": 50
+	},
+	{
+		"position": 3,
+		"name": "CAPS",
+		"qty": 500
+	},
+	{
+		"position": 0,
+		"name": "Rusty 10mm Pistol"
+	},
+	{
+		"position": 1,
+		"name": "CAPS",
+		"qty": 100
+	},
+	{
+		"position": 2,
+		"name": "STIMPAK",
+		"qty": 1
+	},
+	{
+		"position": 3,
+		"name": "CAPS",
+		"qty": 500
+	},
+	{
+		"position": 0,
+		"name": "CAPS",
+		"qty": 100
+	},
+	{
+		"position": 1,
+		"name": "Lab Coat"
+	},
+	{
+		"position": 2,
+		"name": "RADAWAY",
+		"qty": 1
+	},
+	{
+		"position": 3,
+		"name": "Expert Jumpsuit"
+	},
+]

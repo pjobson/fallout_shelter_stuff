@@ -1,0 +1,21 @@
+	{
+		"position": 3,
+		"color": "blue",
+		"name": "xxx",
+		"attributes": {
+			"level": 555,
+			"sex":   "m",
+			"s":     555,
+			"p":     555,
+			"e":     555,
+			"c":     555,
+			"i":     555,
+			"a":     555,
+			"l":     555
+		},
+		"items": [
+			"ooo",
+			"www"
+		]
+	},
+
